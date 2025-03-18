@@ -1,0 +1,19 @@
+section {
+    height: 80vh;
+}
+
+#shirt {
+    margin: 150px 0 0 0;
+}
+
+.shirt-header h2{
+    text-align: left;
+    margin: 0 0 0 10px;
+}
+
+.shirt-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
